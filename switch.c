@@ -3,7 +3,7 @@
 int main() {
     int day;
 
-    printf("Enter a number (1-7) to get the corresponding day of the week: ");
+    printf("Enter a number (1-7) to get the corresponding day of week: ");
     scanf("%d", &day);
 
     // Switch case to determine the day of the week
